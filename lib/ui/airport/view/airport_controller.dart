@@ -66,7 +66,7 @@ class AirportController extends GetxController {
     var connectivityResult = await (Connectivity().checkConnectivity());
     print("connectivityResult :: $connectivityResult");
     if (connectivityResult == ConnectivityResult.none) {
-      isInternet.value = false;
+      //isInternet.value = false;
       getAirportData();
     } else {
       isInternet.value = true;
