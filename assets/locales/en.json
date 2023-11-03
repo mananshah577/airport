@@ -1,0 +1,11 @@
+{
+  "appName" : "Airport",
+  "appNameOffline" : "Airport Offline",
+  "airportDetails" : "Airport Details",
+  "name" : "Name",
+  "city" : "City",
+  "state" : "State",
+  "country" : "Country",
+  "checkYourInternetConnection": "Check your internet connection",
+  "somethingWentWrong" : "Something went wrong, please try again!"
+}
